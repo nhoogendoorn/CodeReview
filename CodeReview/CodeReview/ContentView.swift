@@ -37,7 +37,7 @@ public class APIService {
                     self.userlistService.items.append(contentsOf: [])
                 }                
             }
-        }.resume()
+        }
     }
 }
 
